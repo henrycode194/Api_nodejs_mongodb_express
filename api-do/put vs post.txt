@@ -1,0 +1,2 @@
+Post es para crear un nuevo elemento. Cada vez que se ejecuta crea algo
+Put es para actualizar un elemento. cuando se ejecuta modifica algo.

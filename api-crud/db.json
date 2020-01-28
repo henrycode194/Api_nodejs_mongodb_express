@@ -1,0 +1,13 @@
+{
+    "__comment":"almacenmos los datos normalmente se suelen usar sql o no sql",
+    "productos":[
+        {
+        "id":0,
+        "name":"laptop"
+        },
+        {
+            "id":1,
+            "name":"PC"
+        }
+    ]
+}

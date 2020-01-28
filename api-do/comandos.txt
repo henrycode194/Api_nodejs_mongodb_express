@@ -1,0 +1,20 @@
+1 instalar node
+2 Con el ide abrir una carpeta
+3En la carpeta creada y en la terminal:
+	npm int --yes
+4Instalamos express
+	$ 
+
+Crud
+""
+Pero además es necesario instalar los modulos
+npm i express body-parser morgan 
+
+Api-movie
+yarn casi es lo mismo que npm, pero con soluciona algunos problemas de npm, pero npm se puede seguir utilzando
+yarn init --yes
+yarn add express babel-cli  babel-preset-es2015 consign mongojs
+-para utilizar import se debe modificar el package.json añadiendo:
+		"scripts":{"start":"babel-node index.js"},   
+-index.js donde utilizamos el import 
+-para configurar babel creamos la carpeta .babelrc
